@@ -6,4 +6,4 @@ SDLC and GANTT CHART
 Members:
 Jack Denver Atorda
 Abegail Golimlim
-Necole Hagos
+Nicole Hagos
