@@ -4,6 +4,6 @@ SCHEDULING AND BUDGET ALLOCATION FOR IGNACIO’S RICE FIELD: A DECISION TREE ANA
 SDLC and GANTT CHART
 
 Members:
-Jack Denver Atorda
-Abegail Golimlim
+Jack Denver Atorda,
+Abegail Golimlim,
 Nicole Hagos
